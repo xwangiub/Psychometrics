@@ -7,3 +7,6 @@ This folder covers a few descriptions and applications of psychometric technique
 4. Fairness - differential item functioning
 
 R packages used include ```psych``` and ```sem```.
+
+Let's use the dataset ```bfi``` in the ```psych``` package. ```bfi``` contains responses from 2800 respondents to 25 personality self report items taken from the International Personality Item Pool. Let's take a look at the data.
+
